@@ -1,9 +1,9 @@
 
 ![Lock&Key](https://dl.dropboxusercontent.com/scl/fi/9oqp3mumdabuqertleppn/lock-and-key-github.png?rlkey=9b07vfcyqgtausavnn5r190nt&st=yhoy6udx&dl=0)
-- Created by: [@ludvikkristoffersen](https://github.com/ludvikkristoffersen)
+- Created by: [@luddekn](https://github.com/luddekn)
 - Powered by Python, MySQL, and Customtkinter
 - Current OS support: **Windows**, **Linux**
-- [MIT License](https://github.com/ludvikkristoffersen/lock-and-key/blob/main/license.md)
+- [MIT License](https://github.com/luddekn/lock-and-key/blob/main/license.md)
 
 # Appendix
 1. **[About Lock&Key](#about-lockkey)**
@@ -40,8 +40,8 @@ The user needs to have a local MySQL server set up and running, here is how to s
 ## Installation
 ### Executable Installation
 The Lock&Key password manager has been packaged as an executable for both Windows and Linux using the "pyinstaller" tool. Downloading the executable for your operating system eliminates the need to install any dependencies. It’s designed to work seamlessly right out of the box!
-- [Download Windows executable here.](https://github.com/ludvikkristoffersen/lock-and-key/releases/tag/Lock%26Key-Windows)
-- [Download Linux executable here.](https://github.com/ludvikkristoffersen/lock-and-key/releases/tag/Lock%26Key-Linux)
+- [Download Windows executable here.](https://github.com/luddekn/lock-and-key/releases/tag/Lock%26Key-Windows)
+- [Download Linux executable here.](https://github.com/luddekn/lock-and-key/releases/tag/Lock%26Key-Linux)
 ```
 Download and launch the executable file.
 ```
@@ -52,7 +52,7 @@ cd /opt
 ```
 Clone repository (requires git to be installed):
 ```
-sudo git clone https://github.com/ludvikkristoffersen/lock-and-key
+sudo git clone https://github.com/luddekn/lock-and-key
 ```
 Change the directory to the 'lock-and-key' directory:
 ```
@@ -73,7 +73,7 @@ python3 lock-and-key.py
 ### Manual Installation Windows
 Clone repository (requires git to be installed):
 ```
-git clone https://github.com/ludvikkristoffersen/lock-and-key
+git clone https://github.com/luddekn/lock-and-key
 ```
 Change the directory to the 'lock-and-key' directory:
 ```
